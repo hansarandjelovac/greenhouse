@@ -1,0 +1,13 @@
+def kisaCitanje():
+
+    with open("/home/pi/v1.0/kisa.txt","r") as k:
+
+        kisa = str(k.readlines()
+
+        if kisa ==
+
+            return True
+
+        else:
+
+            return False
